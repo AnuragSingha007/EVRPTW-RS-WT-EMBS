@@ -1,0 +1,15 @@
+Total Number of Vehicles /4/
+Total Distance /1093.77/
+Total ECVs /4/
+Total ECVs Ditance /1093.77/
+Total BSVs /0/
+Total BSVs Distance /0.00/
+Total Number of Swapping Services Requested /0/
+
+ECV Routes:
+0 89 18 45 46 36 64 11 62 88 30 104 79 78 34 9 66 35 51 1 70 31 7 82 60 5 61 93 96 94 0 
+0 21 72 39 23 117 15 114 6 99 84 8 47 49 63 90 32 10 106 19 48 83 17 86 16 100 13 58 0 
+0 52 20 65 71 105 81 33 50 69 27 76 24 67 4 55 25 54 26 0 
+0 95 59 92 97 42 37 98 85 91 44 38 14 43 57 2 40 53 87 41 22 75 118 56 74 73 12 68 80 29 3 77 28 0 
+
+BSV Routes:
