@@ -1,0 +1,7 @@
+# Example dataset in compact text format
+CUSTOMER C1 0 0
+CUSTOMER C2 4 0
+STATION S1 2 2
+DEFAULT_STATION S1
+LEG C1 C2 swap
+LEG C2 S1 charge
